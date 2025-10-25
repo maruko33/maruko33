@@ -4,4 +4,5 @@
 🔭 Currently building: CareNotes Web App (FastAPI + React)  
 📚 Exploring: CI/CD, Docker, and data-driven apps  
 🌐 [LinkedIn](https://www.linkedin.com/in/ke-ma-maruko33) • [Portfolio](https://ke-ma-portfolio.notion.site/Ke-Ma-1b5b3a0521ee4d39acc812d3e94e14c5)
+✉ mak33@mcmaster.ca
 
