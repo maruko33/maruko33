@@ -21,7 +21,7 @@
 
 ### Featured Projects
 
-- **[FinGuard](https://github.com/maruko33/finguard))** — Cloud-native backend and AWS infrastructure
+- **[FinGuard](https://github.com/maruko33/finguard)** — Cloud-native backend and AWS infrastructure
 - **[LedgerNote](https://github.com/maruko33/FinTech_LedgerNoteProject)** — Financial ledger API using FastAPI, MySQL, and Docker
 - **[EchoTeam](https://github.com/ZiDiYao/MEC_EchoTeams)** — AI-assisted emergency response application
 
